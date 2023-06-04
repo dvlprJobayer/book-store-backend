@@ -1,1 +1,1 @@
-# inventory-management-system-backend
+# book-store-backend
